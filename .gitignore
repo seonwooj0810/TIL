@@ -1,0 +1,17 @@
+# Local-only automation infrastructure
+_pipeline/
+logs/
+
+# OS / IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Build artifacts (examples/ 실행 결과)
+*.class
+target/
+build/
+.gradle/
+out/
+node_modules/
