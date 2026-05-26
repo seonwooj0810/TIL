@@ -2,6 +2,16 @@
 _pipeline/
 logs/
 
+# OpenClaw agent workspace metadata (til-bot)
+.openclaw/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+
 # OS / IDE
 .DS_Store
 *.swp
