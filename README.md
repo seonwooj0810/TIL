@@ -52,9 +52,12 @@
 
 ## Recent
 
-(최신 노트 5개를 수동/스크립트로 갱신)
-
-- _아직 노트 없음_
+<!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-06 — [TLS 1.3 handshake 단계 (0-RTT 포함)](./network/tls-1-3-handshake.md)
+- 2026-06-05 — [TCP 연결 수립·종료 상태 머신 (3-way / 4-way)](./network/tcp-handshake-and-teardown-state-machine.md)
+- 2026-06-04 — [REPEATABLE READ in InnoDB의 실제 동작](./database/repeatable-read-in-innodb.md)
+- 2026-06-03 — [InnoDB 인덱스 구조와 clustered key](./database/innodb-index-structure-clustered-key.md)
+- 2026-06-02 — [B+Tree vs LSM-Tree 트레이드오프](./database/btree-vs-lsm-tree-tradeoffs.md)
 
 ## Related
 
