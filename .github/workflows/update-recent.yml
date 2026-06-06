@@ -1,0 +1,35 @@
+name: Update Recent
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+      - '!README.md'
+  workflow_dispatch: # 수동 실행용
+
+permissions:
+  contents: write
+
+jobs:
+  update-recent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 노트별 최초 커밋 날짜 계산(git log)에 전체 히스토리 필요
+
+      - name: Recent 섹션 갱신
+        run: ./scripts/update-recent.sh
+
+      - name: 변경 시 커밋·푸시
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "docs: Recent 자동 갱신"
+            git push
+          else
+            echo "변경 없음 — 커밋 생략"
+          fi
