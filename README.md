@@ -53,11 +53,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-12 — [Kafka exactly-once semantics 내부 메커니즘](./messaging/kafka-exactly-once-semantics-internal-mechanism.md)
 - 2026-06-11 — [CAP 정리와 PACELC](./system-design/cap-and-pacelc.md)
 - 2026-06-10 — [Idempotency Key 설계 패턴](./system-design/idempotency-key-design-pattern.md)
 - 2026-06-09 — [Saga 패턴: Choreography vs Orchestration](./system-design/saga-pattern-choreography-vs-orchestration.md)
 - 2026-06-09 — [Outbox Pattern: Polling vs CDC (Debezium)](./system-design/outbox-pattern-polling-vs-cdc.md)
-- 2026-06-08 — [HTTP/3 (QUIC) 핵심 차이점](./network/http-3-quic-key-differences.md)
 
 ## Related
 
