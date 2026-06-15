@@ -53,11 +53,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-15 — [OpenTelemetry SDK 내부 구조](./observability/opentelemetry-sdk-internal-structure.md)
 - 2026-06-14 — [W3C Trace Context 전파 메커니즘](./observability/w3c-trace-context-propagation-mechanism.md)
 - 2026-06-13 — [Kafka 컨슈머 그룹 리밸런싱 알고리즘](./messaging/kafka-consumer-group-rebalancing-algorithm.md)
 - 2026-06-12 — [Kafka producer acks=all / min.insync.replicas](./messaging/kafka-producer-acks-all-min-insync-replicas.md)
 - 2026-06-12 — [Kafka exactly-once semantics 내부 메커니즘](./messaging/kafka-exactly-once-semantics-internal-mechanism.md)
-- 2026-06-11 — [CAP 정리와 PACELC](./system-design/cap-and-pacelc.md)
 
 ## Related
 
