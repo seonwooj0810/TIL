@@ -53,11 +53,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-19 — [Java Memory Model의 happens-before 규칙과 안전한 공개](./java/java-memory-model-happens-before-safe-publication.md)
 - 2026-06-16 — [메트릭 카디널리티 폭발과 방지](./observability/metric-cardinality-explosion-and-prevention.md)
 - 2026-06-15 — [OpenTelemetry SDK 내부 구조](./observability/opentelemetry-sdk-internal-structure.md)
 - 2026-06-14 — [W3C Trace Context 전파 메커니즘](./observability/w3c-trace-context-propagation-mechanism.md)
 - 2026-06-13 — [Kafka 컨슈머 그룹 리밸런싱 알고리즘](./messaging/kafka-consumer-group-rebalancing-algorithm.md)
-- 2026-06-12 — [Kafka producer acks=all / min.insync.replicas](./messaging/kafka-producer-acks-all-min-insync-replicas.md)
 
 ## Related
 
