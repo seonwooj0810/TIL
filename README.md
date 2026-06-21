@@ -53,11 +53,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-21 — [PostgreSQL Index-Only Scan과 Visibility Map의 상호작용](./database/postgresql-index-only-scan-and-visibility-map.md)
 - 2026-06-20 — [Spring MVC HandlerExceptionResolver 체인의 예외 처리 우선순위](./spring/spring-mvc-handler-exception-resolver-chain-priority.md)
 - 2026-06-19 — [Hibernate 배치 페치의 BatchFetchStyle과 IN 절 생성 방식](./jpa/hibernate-batch-fetch-style-and-in-clause-generation.md)
 - 2026-06-19 — [Java Memory Model의 happens-before 규칙과 안전한 공개](./java/java-memory-model-happens-before-safe-publication.md)
 - 2026-06-16 — [메트릭 카디널리티 폭발과 방지](./observability/metric-cardinality-explosion-and-prevention.md)
-- 2026-06-15 — [OpenTelemetry SDK 내부 구조](./observability/opentelemetry-sdk-internal-structure.md)
 
 ## Related
 
