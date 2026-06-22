@@ -4,6 +4,7 @@
 > **Secondary:** KEP-853 (configurable-hpa-scale-velocity)
 > **Date:** 2026-06-22
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kubernetes-hpa-scaling-algorithm
 
 ## 왜 봤나
 
