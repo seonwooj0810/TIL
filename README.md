@@ -9,7 +9,7 @@
 
 - **1차 출처**(스펙·RFC·공식 docs·라이브러리 소스코드)를 직접 인용한다.
 - **내부 동작**(알고리즘, 상태 전이, 메모리 구조 등)을 설명한다.
-- **코드 실험**으로 검증한다 (`examples/` 동봉).
+- **코드/출처로 검증**한다 (인라인 스니펫으로 동작을 보이거나, 1차 출처를 직접 따라가 확인).
 - **잘못 알고 있던 것**을 바로잡는다.
 
 ## What does NOT belong here
@@ -39,8 +39,7 @@
 
 - 새 노트는 [`NOTE_TEMPLATE.md`](./NOTE_TEMPLATE.md)를 그대로 복사해서 시작한다.
 - 파일명: **주제 기반 kebab-case** (예: `persistence-context.md`). 날짜 X.
-- 검증 코드는 같은 폴더의 `examples/` 하위에:
-  - `jpa/persistence-context.md` ↔ `jpa/examples/FirstLevelCacheTest.java`
+- 검증은 본문 인라인 스니펫 또는 1차 출처를 따라간 흐름으로 적는다 (별도 `examples/` 실행 환경은 두지 않는다).
 - 정리가 충분히 두꺼워지면 [velog 글](https://velog.io/@jungseonw00)로 다듬어 발행하고, 노트 하단에 velog 링크를 남긴다.
 
 ## Conventions
