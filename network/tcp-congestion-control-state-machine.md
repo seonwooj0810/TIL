@@ -4,6 +4,7 @@
 > **Secondary:** RFC 8312 (CUBIC), RFC 6298 (RTO 계산), W. Stevens, *TCP/IP Illustrated Vol.1*
 > **Date:** 2026-06-23
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/tcp-congestion-control-cwnd
 
 ## 왜 봤나
 
