@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-23 — [TCP 혼잡 제어의 cwnd 상태 머신: Slow Start · Congestion Avoidance · Fast Recovery](./network/tcp-congestion-control-state-machine.md)
 - 2026-06-22 — [Kubernetes HPA의 desiredReplicas 계산 알고리즘과 안정화 윈도우](./kubernetes/hpa-scaling-algorithm-and-stabilization.md)
 - 2026-06-21 — [PostgreSQL Index-Only Scan과 Visibility Map의 상호작용](./database/postgresql-index-only-scan-and-visibility-map.md)
 - 2026-06-20 — [Spring MVC HandlerExceptionResolver 체인의 예외 처리 우선순위](./spring/spring-mvc-handler-exception-resolver-chain-priority.md)
 - 2026-06-19 — [Hibernate 배치 페치의 BatchFetchStyle과 IN 절 생성 방식](./jpa/hibernate-batch-fetch-style-and-in-clause-generation.md)
-- 2026-06-19 — [Java Memory Model의 happens-before 규칙과 안전한 공개](./java/java-memory-model-happens-before-safe-publication.md)
 
 ## Related
 
