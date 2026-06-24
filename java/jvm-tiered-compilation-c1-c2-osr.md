@@ -4,6 +4,7 @@
 > **Secondary:** Oracle JDK 11+ JIT 컴파일러 동작 설명, "The Java HotSpot Performance Engine Architecture"
 > **Date:** 2026-06-24
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/jvm-tiered-compilation-c1-c2
 
 ## 왜 봤나
 
