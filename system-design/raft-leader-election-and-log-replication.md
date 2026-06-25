@@ -4,6 +4,7 @@
 > **Secondary:** raft.github.io (시각화), etcd/raft 구현 노트
 > **Date:** 2026-06-25
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/raft-leader-election-log-safety
 
 ## 왜 봤나
 
