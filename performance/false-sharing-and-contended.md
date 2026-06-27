@@ -4,6 +4,7 @@
 > **Secondary:** Intel 64 and IA-32 Architectures Optimization Reference Manual(캐시 라인·MESI), `java.util.concurrent.atomic.LongAdder` / `Striped64.Cell` 소스
 > **Date:** 2026-06-27
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/false-sharing-and-contended
 
 ## 왜 봤나
 
