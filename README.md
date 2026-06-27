@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-27 — [False Sharing와 @Contended: 캐시 라인이 만드는 보이지 않는 경합](./performance/false-sharing-and-contended.md)
 - 2026-06-25 — [Raft 합의 알고리즘: 리더 선출과 로그 복제 안전성](./system-design/raft-leader-election-and-log-replication.md)
 - 2026-06-24 — [JVM 티어드 컴파일레이션: C1/C2 레벨 전이와 OSR·역최적화](./java/jvm-tiered-compilation-c1-c2-osr.md)
 - 2026-06-23 — [TCP 혼잡 제어의 cwnd 상태 머신: Slow Start · Congestion Avoidance · Fast Recovery](./network/tcp-congestion-control-state-machine.md)
 - 2026-06-22 — [Kubernetes HPA의 desiredReplicas 계산 알고리즘과 안정화 윈도우](./kubernetes/hpa-scaling-algorithm-and-stabilization.md)
-- 2026-06-21 — [PostgreSQL Index-Only Scan과 Visibility Map의 상호작용](./database/postgresql-index-only-scan-and-visibility-map.md)
 
 ## Related
 
