@@ -4,6 +4,7 @@
 > **Secondary:** PostgreSQL 소스 `src/backend/access/transam/xlog.c` 주석 (REDO point / checkpoint 설명)
 > **Date:** 2026-06-28
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/postgresql-wal-and-checkpoint
 
 ## 왜 봤나
 
