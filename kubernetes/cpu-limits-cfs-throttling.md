@@ -4,6 +4,7 @@
 > **Secondary:** Kubernetes 공식 docs (Resource Management for Pods and Containers), `cgroupfs` 인터페이스
 > **Date:** 2026-06-29
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kubernetes-cpu-limit-cfs-throttling
 
 ## 왜 봤나
 
