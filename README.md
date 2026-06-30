@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-06-30 — [Kafka 로그 세그먼트와 sparse index: offset으로 메시지를 O(log n)에 찾는 법](./messaging/kafka-log-segment-and-sparse-index.md)
 - 2026-06-29 — [Kubernetes CPU limit과 CFS throttling: cgroup quota·period가 컨테이너를 조이는 법](./kubernetes/cpu-limits-cfs-throttling.md)
 - 2026-06-28 — [PostgreSQL WAL과 체크포인트: 충돌 복구를 보장하는 내부 동작](./database/postgresql-wal-and-checkpoint.md)
 - 2026-06-27 — [False Sharing와 @Contended: 캐시 라인이 만드는 보이지 않는 경합](./performance/false-sharing-and-contended.md)
 - 2026-06-25 — [Raft 합의 알고리즘: 리더 선출과 로그 복제 안전성](./system-design/raft-leader-election-and-log-replication.md)
-- 2026-06-24 — [JVM 티어드 컴파일레이션: C1/C2 레벨 전이와 OSR·역최적화](./java/jvm-tiered-compilation-c1-c2-osr.md)
 
 ## Related
 
