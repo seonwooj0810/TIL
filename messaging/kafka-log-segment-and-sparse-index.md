@@ -4,6 +4,7 @@
 > **Secondary:** Kafka: The Definitive Guide 2nd ed. Ch.5 (Physical Storage), `kafka-dump-log.sh` 출력
 > **Date:** 2026-06-30
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kafka-log-segment-sparse-index
 
 ## 왜 봤나
 
