@@ -4,6 +4,7 @@
 > **Secondary:** Java API docs (`ThreadLocal`), Effective Java 3rd Item 6 (주변 논의)
 > **Date:** 2026-07-01
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/threadlocal-internals-memory-leak
 
 ## 왜 봤나
 
