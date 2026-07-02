@@ -4,6 +4,7 @@
 > **Secondary:** Spring Framework Reference — Core (IoC container), Spring Boot Reference (`spring.main.allow-circular-references`)
 > **Date:** 2026-07-02
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/spring-circular-dependency-three-level-cache
 
 ## 왜 봤나
 
