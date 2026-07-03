@@ -4,6 +4,7 @@
 > **Secondary:** Hibernate ORM 6 User Guide — Locking; Hibernate 소스 `EntityVerifyVersionProcess`, `Versioning`
 > **Date:** 2026-07-03
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/jpa-optimistic-locking-version
 
 ## 왜 봤나
 
