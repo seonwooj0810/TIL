@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-04 — [Nagle 알고리즘과 delayed ACK: 두 최적화가 겹칠 때 생기는 40ms 지연](./network/nagle-algorithm-delayed-ack.md)
 - 2026-07-03 — [JPA 낙관적 락(@Version): 버전 컬럼이 lost update를 막는 compare-and-set 메커니즘](./jpa/optimistic-locking-version-mechanism.md)
 - 2026-07-02 — [Spring 순환참조를 푸는 3-level 캐시: singletonFactories가 조기 참조와 프록시 일관성을 지키는 법](./spring/circular-dependency-three-level-cache.md)
 - 2026-07-01 — [ThreadLocal 내부 구조와 메모리 누수: WeakReference 키가 막지 못하는 것](./java/threadlocal-internals-and-memory-leak.md)
 - 2026-06-30 — [Kafka 로그 세그먼트와 sparse index: offset으로 메시지를 O(log n)에 찾는 법](./messaging/kafka-log-segment-and-sparse-index.md)
-- 2026-06-29 — [Kubernetes CPU limit과 CFS throttling: cgroup quota·period가 컨테이너를 조이는 법](./kubernetes/cpu-limits-cfs-throttling.md)
 
 ## Related
 
