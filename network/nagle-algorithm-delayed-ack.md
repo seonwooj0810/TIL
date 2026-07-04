@@ -4,6 +4,7 @@
 > **Secondary:** Linux 커널 `tcp_output.c`의 `tcp_nagle_check`, `TCP_NODELAY`/`TCP_QUICKACK` socket option man page
 > **Date:** 2026-07-04
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/nagle-delayed-ack-40ms
 
 ## 왜 봤나
 
