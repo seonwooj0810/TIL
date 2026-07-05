@@ -4,6 +4,7 @@
 > **Secondary:** netfilter/iptables `statistic`·`conntrack` 매뉴얼, Linux nat table 문서
 > **Date:** 2026-07-05
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kube-proxy-iptables-clusterip-routing
 
 ## 왜 봤나
 
