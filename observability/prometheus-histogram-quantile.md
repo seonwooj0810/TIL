@@ -4,6 +4,7 @@
 > **Secondary:** Prometheus best practices(Histograms and summaries), Prometheus native histograms 문서
 > **Date:** 2026-07-06
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/prometheus-histogram-quantile
 
 ## 왜 봤나
 
