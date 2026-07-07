@@ -4,6 +4,7 @@
 > **Secondary:** DDIA (Kleppmann) Ch.6 "Partitioning" / Amazon Dynamo 논문 (SOSP 2007) §4.2
 > **Date:** 2026-07-07
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/consistent-hashing-virtual-nodes
 
 ## 왜 봤나
 
