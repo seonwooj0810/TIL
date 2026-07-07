@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-07 — [일관된 해싱과 가상 노드: 노드가 바뀔 때 왜 K/N개의 키만 움직이는가](./system-design/consistent-hashing-virtual-nodes.md)
 - 2026-07-06 — [Prometheus 히스토그램과 histogram_quantile: 누적 버킷과 선형 보간이 만드는 근사 분위수](./observability/prometheus-histogram-quantile.md)
 - 2026-07-05 — [kube-proxy iptables 모드의 ClusterIP 라우팅: 존재하지 않는 IP로 보낸 패킷이 어떻게 Pod에 닿나](./kubernetes/kube-proxy-iptables-clusterip-routing.md)
 - 2026-07-04 — [Nagle 알고리즘과 delayed ACK: 두 최적화가 겹칠 때 생기는 40ms 지연](./network/nagle-algorithm-delayed-ack.md)
 - 2026-07-03 — [JPA 낙관적 락(@Version): 버전 컬럼이 lost update를 막는 compare-and-set 메커니즘](./jpa/optimistic-locking-version-mechanism.md)
-- 2026-07-02 — [Spring 순환참조를 푸는 3-level 캐시: singletonFactories가 조기 참조와 프록시 일관성을 지키는 법](./spring/circular-dependency-three-level-cache.md)
 
 ## Related
 
