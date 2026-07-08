@@ -4,6 +4,7 @@
 > **Secondary:** Ron Pressler, "State of Loom" / JEP 491 (Synchronize Virtual Threads without Pinning)
 > **Date:** 2026-07-08
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/java-virtual-threads-mount-unmount-pinning
 
 ## 왜 봤나
 
