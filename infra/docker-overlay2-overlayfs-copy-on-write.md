@@ -4,6 +4,7 @@
 > **Secondary:** Docker Docs — Storage drivers / overlayfs (overlay2) driver
 > **Date:** 2026-07-09
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/docker-overlay2-copy-on-write
 
 ## 왜 봤나
 
