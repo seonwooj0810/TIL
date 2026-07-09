@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-09 — [Docker overlay2와 overlayfs: 이미지 레이어는 어떻게 공유되고 첫 쓰기는 왜 copy_up을 부르나](./infra/docker-overlay2-overlayfs-copy-on-write.md)
 - 2026-07-08 — [가상 스레드의 마운트/언마운트와 pinning: 블로킹이 왜 캐리어를 놓아주는가](./java/virtual-threads-carrier-mounting-pinning.md)
 - 2026-07-07 — [일관된 해싱과 가상 노드: 노드가 바뀔 때 왜 K/N개의 키만 움직이는가](./system-design/consistent-hashing-virtual-nodes.md)
 - 2026-07-06 — [Prometheus 히스토그램과 histogram_quantile: 누적 버킷과 선형 보간이 만드는 근사 분위수](./observability/prometheus-histogram-quantile.md)
 - 2026-07-05 — [kube-proxy iptables 모드의 ClusterIP 라우팅: 존재하지 않는 IP로 보낸 패킷이 어떻게 Pod에 닿나](./kubernetes/kube-proxy-iptables-clusterip-routing.md)
-- 2026-07-04 — [Nagle 알고리즘과 delayed ACK: 두 최적화가 겹칠 때 생기는 40ms 지연](./network/nagle-algorithm-delayed-ack.md)
 
 ## Related
 
