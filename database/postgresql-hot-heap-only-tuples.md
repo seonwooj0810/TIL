@@ -4,6 +4,7 @@
 > **Secondary:** PostgreSQL Docs §66.4 (fillfactor), `heapam.c`/`pruneheap.c` 소스
 > **Date:** 2026-07-10
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/postgresql-hot-heap-only-tuples
 
 ## 왜 봤나
 
