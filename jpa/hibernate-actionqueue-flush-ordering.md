@@ -4,6 +4,7 @@
 > **Secondary:** Vlad Mihalcea, "Knowing flush operations order matters"
 > **Date:** 2026-07-11
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hibernate-actionqueue-flush-order
 
 ## 왜 봤나
 
