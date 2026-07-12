@@ -4,6 +4,7 @@
 > **Secondary:** Confluent 블로그 "Hardening Kafka Replication", Jason Gustafson 발표 자료
 > **Date:** 2026-07-12
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kafka-high-watermark-leader-epoch
 
 ## 왜 봤나
 
