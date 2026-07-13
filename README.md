@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-13 — [PKCE: 공개 클라이언트의 인가 코드 탈취를 code_verifier로 막는 법](./security/pkce-proof-key-for-code-exchange.md)
 - 2026-07-12 — [Kafka High Watermark와 Leader Epoch: 커밋 경계는 어떻게 정해지고, 리더가 바뀔 때 로그는 어떻게 잘리나](./messaging/kafka-high-watermark-leader-epoch.md)
 - 2026-07-11 — [Hibernate ActionQueue: persist 호출 순서를 무시하고 flush 때 SQL을 재배열하는 법](./jpa/hibernate-actionqueue-flush-ordering.md)
 - 2026-07-10 — [PostgreSQL HOT 업데이트: 인덱스를 건드리지 않고 같은 페이지 안에서 버전을 잇는 법](./database/postgresql-hot-heap-only-tuples.md)
 - 2026-07-09 — [Docker overlay2와 overlayfs: 이미지 레이어는 어떻게 공유되고 첫 쓰기는 왜 copy_up을 부르나](./infra/docker-overlay2-overlayfs-copy-on-write.md)
-- 2026-07-08 — [가상 스레드의 마운트/언마운트와 pinning: 블로킹이 왜 캐리어를 놓아주는가](./java/virtual-threads-carrier-mounting-pinning.md)
 
 ## Related
 
