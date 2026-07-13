@@ -4,6 +4,7 @@
 > **Secondary:** RFC 6749 (OAuth 2.0) §4.1 Authorization Code Grant / OAuth 2.0 Security BCP
 > **Date:** 2026-07-13
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/pkce-proof-key-for-code-exchange
 
 ## 왜 봤나
 
