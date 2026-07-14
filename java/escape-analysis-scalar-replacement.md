@@ -4,6 +4,7 @@
 > **Secondary:** Oracle *Java HotSpot VM Performance Enhancements* 문서, JDK `-XX:+PrintEliminateAllocations` 출력
 > **Date:** 2026-07-14
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/escape-analysis-scalar-replacement
 
 ## 왜 봤나
 
