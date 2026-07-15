@@ -4,6 +4,7 @@
 > **Secondary:** HikariCP Wiki "Down the Rabbit Hole" (설계 노트)
 > **Date:** 2026-07-15
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hikaricp-concurrentbag-connection-lending
 
 ## 왜 봤나
 
