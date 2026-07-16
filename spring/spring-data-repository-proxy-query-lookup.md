@@ -4,6 +4,7 @@
 > **Secondary:** Spring Data JPA Reference (Core concepts, Query Methods, Query Lookup Strategies)
 > **Date:** 2026-07-16
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/spring-data-jpa-repository-proxy
 
 ## 왜 봤나
 
