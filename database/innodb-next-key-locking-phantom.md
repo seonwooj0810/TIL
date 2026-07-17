@@ -4,6 +4,8 @@
 > **Secondary:** MySQL Reference Manual §15.7.3 (Locks Set by Different SQL Statements in InnoDB)
 > **Date:** 2026-07-17
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/innodb-next-key-lock-phantom
+
 
 ## 왜 봤나
 
