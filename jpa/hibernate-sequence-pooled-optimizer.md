@@ -4,6 +4,7 @@
 > **Secondary:** Jakarta Persistence 3.2 §11.1.48 `@SequenceGenerator`, Vlad Mihalcea "pooled vs pooled-lo"
 > **Date:** 2026-07-18
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hibernate-sequence-pooled-optimizer
 
 ## 왜 봤나
 
