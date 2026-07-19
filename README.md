@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-19 — [cgroup v2 메모리 컨트롤러와 OOM: memory.high 스로틀링과 memory.max OOM 킬의 경계](./infra/cgroup-v2-memory-controller-oom.md)
 - 2026-07-18 — [Hibernate 시퀀스 식별자 생성과 pooled 옵티마이저: allocationSize로 INSERT마다의 시퀀스 왕복을 없애는 법](./jpa/hibernate-sequence-pooled-optimizer.md)
 - 2026-07-17 — [InnoDB 넥스트키 락: 갭 락으로 팬텀 로우를 막는 잠금 읽기의 내부 동작](./database/innodb-next-key-locking-phantom.md)
 - 2026-07-16 — [Spring Data JPA는 인터페이스만으로 어떻게 리포지토리 빈을 만드나 — 프록시 + 쿼리 룩업](./spring/spring-data-repository-proxy-query-lookup.md)
 - 2026-07-15 — [HikariCP ConcurrentBag: 커넥션을 락 없이 빌려주는 3단계 대여 알고리즘](./performance/hikaricp-concurrentbag-connection-lending.md)
-- 2026-07-14 — [JVM 이스케이프 분석과 스칼라 치환: 객체를 "스택에 올리는" 게 아니라 아예 없애는 법](./java/escape-analysis-scalar-replacement.md)
 
 ## Related
 
