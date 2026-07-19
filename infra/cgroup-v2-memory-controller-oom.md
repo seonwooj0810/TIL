@@ -4,6 +4,7 @@
 > **Secondary:** kernel-internals.org memcg-oom / cgroup-v2.rst
 > **Date:** 2026-07-19
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/cgroup-v2-memory-controller-oom
 
 ## 왜 봤나
 
