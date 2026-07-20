@@ -4,6 +4,7 @@
 > **Secondary:** kube-proxy 동작 문서(ProxyTerminatingEndpoints), 이전 노트 [kube-proxy iptables ClusterIP 라우팅](./kube-proxy-iptables-clusterip-routing.md)
 > **Date:** 2026-07-20
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/pod-termination-endpoint-race
 
 ## 왜 봤나
 
