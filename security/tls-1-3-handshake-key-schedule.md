@@ -4,6 +4,7 @@
 > **Secondary:** RFC 8446 §2 (핸드셰이크 개요), §4.2.11 / §2.3 (PSK·0-RTT)
 > **Date:** 2026-07-21
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/tls-1-3-key-schedule
 
 ## 왜 봤나
 
