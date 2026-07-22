@@ -4,6 +4,7 @@
 > **Secondary:** Fabian Reinartz "Writing a Time Series Database from Scratch" (2017)
 > **Date:** 2026-07-22
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/prometheus-tsdb-storage-engine
 
 ## 왜 봤나
 
