@@ -4,6 +4,7 @@
 > **Secondary:** Jacobson, "Congestion Avoidance and Control" (SIGCOMM 1988) §2 / RFC 9293 §3.8.1 / RFC 7323 §4 (timestamp 기반 RTTM) / Karn & Partridge (SIGCOMM 1987)
 > **Date:** 2026-07-23
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/tcp-rto-retransmission-timeout
 
 ## 왜 봤나
 
