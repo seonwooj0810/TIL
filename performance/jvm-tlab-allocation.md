@@ -4,6 +4,7 @@
 > **Secondary:** Oracle "HotSpot GC Tuning" TLAB 절 · Aleksey Shipilëv "JVM Anatomy Quark #4: TLAB allocation"
 > **Date:** 2026-07-24
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/jvm-tlab-allocation
 
 ## 왜 봤나
 
