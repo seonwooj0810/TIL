@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-24 — [JVM TLAB(Thread-Local Allocation Buffer): 객체 할당이 락 없이 포인터 하나 올리는 일이 되는 법](./performance/jvm-tlab-allocation.md)
 - 2026-07-23 — [TCP 재전송 타임아웃(RTO) 계산: Jacobson/Karels EWMA와 Karn 알고리즘](./network/tcp-rto-calculation.md)
 - 2026-07-22 — [Prometheus TSDB 저장 엔진: WAL·Head·Gorilla 압축·블록 compaction](./observability/prometheus-tsdb-storage-engine.md)
 - 2026-07-21 — [TLS 1.3 키 스케줄: HKDF-Extract/Expand 사슬로 하나의 (EC)DHE 비밀에서 모든 트래픽 키를 뽑는 법](./security/tls-1-3-handshake-key-schedule.md)
 - 2026-07-20 — [쿠버네티스 파드 종료의 경쟁 조건: SIGTERM과 엔드포인트 제거는 순서가 없다](./kubernetes/pod-termination-endpoint-race.md)
-- 2026-07-19 — [cgroup v2 메모리 컨트롤러와 OOM: memory.high 스로틀링과 memory.max OOM 킬의 경계](./infra/cgroup-v2-memory-controller-oom.md)
 
 ## Related
 
