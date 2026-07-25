@@ -4,6 +4,7 @@
 > **Secondary:** PHC(Password Hashing Competition) 2015 선정 근거, Spring Security `Argon2PasswordEncoder` docs
 > **Date:** 2026-07-25
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/argon2-memory-hard-password-hashing
 
 ## 왜 봤나
 
