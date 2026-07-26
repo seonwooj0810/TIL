@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-26 — [Linux namespaces로 컨테이너가 "격리된 것처럼" 보이는 법 (PID·mount·user namespace 내부 동작)](./infra/linux-namespaces-container-isolation.md)
 - 2026-07-25 — [Argon2: 메모리를 채워야만 계산되게 만들어 GPU 병렬 크래킹을 무력화하는 법](./security/argon2-memory-hard-password-hashing.md)
 - 2026-07-24 — [2PC(Two-Phase Commit): 원자적 커밋은 왜 코디네이터 한 대가 죽으면 멈추는가](./system-design/two-phase-commit-blocking.md)
 - 2026-07-24 — [JVM TLAB(Thread-Local Allocation Buffer): 객체 할당이 락 없이 포인터 하나 올리는 일이 되는 법](./performance/jvm-tlab-allocation.md)
 - 2026-07-23 — [TCP 재전송 타임아웃(RTO) 계산: Jacobson/Karels EWMA와 Karn 알고리즘](./network/tcp-rto-calculation.md)
-- 2026-07-22 — [Prometheus TSDB 저장 엔진: WAL·Head·Gorilla 압축·블록 compaction](./observability/prometheus-tsdb-storage-engine.md)
 
 ## Related
 
