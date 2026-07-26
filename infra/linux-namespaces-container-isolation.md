@@ -4,6 +4,7 @@
 > **Secondary:** util-linux `unshare(1)` 매뉴얼
 > **Date:** 2026-07-26
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/linux-namespaces-container-isolation
 
 ## 왜 봤나
 
