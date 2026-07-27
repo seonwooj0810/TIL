@@ -4,6 +4,7 @@
 > **Secondary:** MySQL 8.0.20 Release Notes (dblwr 파일 분리) / Jeremy Cole "InnoDB doublewrite" 분석 글
 > **Date:** 2026-07-27
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/innodb-doublewrite-buffer
 
 ## 왜 봤나
 
