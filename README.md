@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-07-28 — [ForkJoinPool work-stealing deque: 왜 소유자는 top에서 LIFO, 도둑은 base에서 FIFO로 꺼내는가](./java/forkjoinpool-work-stealing-deque.md)
 - 2026-07-27 — [InnoDB 더블라이트 버퍼: redo log가 있는데도 왜 페이지를 두 번 쓰는가 (torn page 방지)](./database/innodb-doublewrite-buffer-torn-page.md)
 - 2026-07-26 — [Linux namespaces로 컨테이너가 "격리된 것처럼" 보이는 법 (PID·mount·user namespace 내부 동작)](./infra/linux-namespaces-container-isolation.md)
 - 2026-07-25 — [Argon2: 메모리를 채워야만 계산되게 만들어 GPU 병렬 크래킹을 무력화하는 법](./security/argon2-memory-hard-password-hashing.md)
 - 2026-07-24 — [2PC(Two-Phase Commit): 원자적 커밋은 왜 코디네이터 한 대가 죽으면 멈추는가](./system-design/two-phase-commit-blocking.md)
-- 2026-07-24 — [JVM TLAB(Thread-Local Allocation Buffer): 객체 할당이 락 없이 포인터 하나 올리는 일이 되는 법](./performance/jvm-tlab-allocation.md)
 
 ## Related
 
