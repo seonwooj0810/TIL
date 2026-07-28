@@ -4,6 +4,7 @@
 > **Secondary:** Arora–Blumofe–Plumb, "Thread Scheduling for Multiprogrammed Multiprocessors" (SPAA 1998) — work-stealing deque 원형(ABP)
 > **Date:** 2026-07-28
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/forkjoinpool-work-stealing-deque
 
 ## 왜 봤나
 
