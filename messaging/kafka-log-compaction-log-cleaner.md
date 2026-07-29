@@ -4,6 +4,7 @@
 > **Secondary:** KIP-58 (Make Log Compaction point configurable), Confluent "Kafka Internals" 문서
 > **Date:** 2026-07-29
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kafka-log-compaction-log-cleaner
 
 ## 왜 봤나
 
