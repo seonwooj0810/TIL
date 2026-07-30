@@ -4,6 +4,7 @@
 > **Secondary:** Riak "Vector Clocks" docs, Wikipedia Version vector
 > **Date:** 2026-07-30
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/vector-clocks-version-vectors
 
 ## 왜 봤나
 
