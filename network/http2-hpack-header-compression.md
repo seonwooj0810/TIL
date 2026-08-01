@@ -4,6 +4,7 @@
 > **Secondary:** RFC 9113 §4.3 (Field Section Compression), nghttp2 `hpack` 구현
 > **Date:** 2026-08-01
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hpack-header-compression
 
 ## 왜 봤나
 
