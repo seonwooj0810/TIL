@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-08-01 — [Spring TransactionSynchronizationManager: @Transactional이 같은 트랜잭션 안에서 물리 커넥션 하나를 재사용하는 법](./spring/transaction-synchronization-manager-connection-binding.md)
+- 2026-08-01 — [HPACK: HTTP/2가 헤더를 DEFLATE 없이 압축하면서 CRIME을 피하는 법 (정적/동적 테이블·Huffman·인덱스 주소공간)](./network/http2-hpack-header-compression.md)
 - 2026-07-30 — [벡터 시계와 버전 벡터: 분산 시스템에서 "동시 쓰기"를 인과관계로 판별하는 법](./system-design/version-vectors-causality-conflict-detection.md)
 - 2026-07-29 — [Kafka 로그 컴팩션과 log cleaner: 키별 "최신 값 하나"를 남기는 방법](./messaging/kafka-log-compaction-log-cleaner.md)
 - 2026-07-28 — [ForkJoinPool work-stealing deque: 왜 소유자는 top에서 LIFO, 도둑은 base에서 FIFO로 꺼내는가](./java/forkjoinpool-work-stealing-deque.md)
-- 2026-07-27 — [InnoDB 더블라이트 버퍼: redo log가 있는데도 왜 페이지를 두 번 쓰는가 (torn page 방지)](./database/innodb-doublewrite-buffer-torn-page.md)
-- 2026-07-26 — [Linux namespaces로 컨테이너가 "격리된 것처럼" 보이는 법 (PID·mount·user namespace 내부 동작)](./infra/linux-namespaces-container-isolation.md)
 
 ## Related
 
