@@ -4,6 +4,7 @@
 > **Secondary:** `org.hibernate.action.internal.EntityUpdateAction`, `org.hibernate.cache.internal.TimestampsCacheEnabledImpl`, `org.hibernate.engine.internal.AfterTransactionCompletionProcessQueue`, `org.hibernate.cache.spi.support.SimpleTimestamper`
 > **Date:** 2026-08-03
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hibernate-read-write-cache-soft-lock
 
 ## 왜 봤나
 
