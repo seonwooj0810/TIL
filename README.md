@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-08-05 — [Kubernetes Deployment 롤링 업데이트: maxSurge/maxUnavailable 비대칭 라운딩과 proportional scaling 분배](./kubernetes/deployment-rolling-update-proportional-scaling.md)
 - 2026-08-03 — [Hibernate 2차 캐시 READ_WRITE 전략: soft lock과 timestamp 2단계 무효화로 정합성을 지키는 법](./jpa/hibernate-second-level-cache-read-write-soft-lock.md)
 - 2026-08-01 — [Spring TransactionSynchronizationManager: @Transactional이 같은 트랜잭션 안에서 물리 커넥션 하나를 재사용하는 법](./spring/transaction-synchronization-manager-connection-binding.md)
 - 2026-08-01 — [HPACK: HTTP/2가 헤더를 DEFLATE 없이 압축하면서 CRIME을 피하는 법 (정적/동적 테이블·Huffman·인덱스 주소공간)](./network/http2-hpack-header-compression.md)
 - 2026-07-30 — [벡터 시계와 버전 벡터: 분산 시스템에서 "동시 쓰기"를 인과관계로 판별하는 법](./system-design/version-vectors-causality-conflict-detection.md)
-- 2026-07-29 — [Kafka 로그 컴팩션과 log cleaner: 키별 "최신 값 하나"를 남기는 방법](./messaging/kafka-log-compaction-log-cleaner.md)
 
 ## Related
 
