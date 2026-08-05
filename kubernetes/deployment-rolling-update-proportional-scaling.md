@@ -4,6 +4,7 @@
 > **Secondary:** Kubernetes Docs — Workloads/Deployments §Rolling Update Deployment·§Proportional scaling; 같은 컨트롤러의 `sync.go`(`scale()`/`scaleReplicaSet` — 어노테이션 갱신 시점)
 > **Date:** 2026-08-05
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kubernetes-deployment-fencepost-rounding
 
 ## 왜 봤나
 
