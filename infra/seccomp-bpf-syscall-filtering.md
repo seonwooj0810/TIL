@@ -4,6 +4,7 @@
 > **Secondary:** Linux Kernel Documentation — networking/filter.rst (classic BPF) / man7 seccomp(2)
 > **Date:** 2026-08-07
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/seccomp-bpf-argument-filtering
 
 ## 왜 봤나
 
