@@ -4,6 +4,7 @@
 > **Secondary:** MySQL 8.0 Reference Manual Chapter 17 (InnoDB) 로깅 관련 서술
 > **Date:** 2026-08-09
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/mysql-group-commit-sync-delay
 
 ## 왜 봤나
 
