@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-08-09 — [MySQL Binary Log Group Commit: sync_delay 배치 윈도우와 커밋 순서 보장이 durability와 처리량을 함께 얻는 법](./database/mysql-binlog-group-commit-sync-delay.md)
 - 2026-08-07 — [seccomp-BPF: 컨테이너 syscall 필터링이 리턴값 우선순위와 포인터 역참조 금지로 안전을 보장하는 법](./infra/seccomp-bpf-syscall-filtering.md)
 - 2026-08-05 — [Kubernetes Deployment 롤링 업데이트: maxSurge/maxUnavailable 비대칭 라운딩과 proportional scaling 분배](./kubernetes/deployment-rolling-update-proportional-scaling.md)
 - 2026-08-03 — [Hibernate 2차 캐시 READ_WRITE 전략: soft lock과 timestamp 2단계 무효화로 정합성을 지키는 법](./jpa/hibernate-second-level-cache-read-write-soft-lock.md)
 - 2026-08-01 — [Spring TransactionSynchronizationManager: @Transactional이 같은 트랜잭션 안에서 물리 커넥션 하나를 재사용하는 법](./spring/transaction-synchronization-manager-connection-binding.md)
-- 2026-08-01 — [HPACK: HTTP/2가 헤더를 DEFLATE 없이 압축하면서 CRIME을 피하는 법 (정적/동적 테이블·Huffman·인덱스 주소공간)](./network/http2-hpack-header-compression.md)
 
 ## Related
 
