@@ -4,6 +4,7 @@
 > **Secondary:** Spring Data Redis 소스 `org.springframework.data.redis.cache.RedisCache` / Spring Framework Reference Docs — Cache Abstraction
 > **Date:** 2026-08-10
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/redis-cache-sync-thundering-herd
 
 ## 왜 봤나
 
