@@ -4,6 +4,7 @@
 > **Secondary:** RFC 2104 (HMAC)
 > **Date:** 2026-08-12
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/hotp-totp-dynamic-truncation
 
 ## 왜 봤나
 
