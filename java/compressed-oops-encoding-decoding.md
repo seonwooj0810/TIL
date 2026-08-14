@@ -5,6 +5,8 @@
 > **Date:** 2026-08-14
 > **Status:** draft
 
+> 블로그: https://velog.io/@jungseonw00/compressed-oops-encoding
+
 ## 왜 봤나
 
 - [`jvm-memory-layout.md`](./jvm-memory-layout.md)에서 남겨둔 "Compressed Class Pointers / Compressed Oops가 힙 크기에 미치는 영향" 각주를 실제로 풀어본다.
