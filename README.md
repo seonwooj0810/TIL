@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-08-14 — [Compressed Oops: 64비트 오브젝트 포인터를 32비트로 압축하는 인코딩](./java/compressed-oops-encoding-decoding.md)
 - 2026-08-12 — [HOTP/TOTP: HMAC 동적 절단(Dynamic Truncation)이 6자리 OTP를 만드는 법](./security/hotp-totp-dynamic-truncation.md)
 - 2026-08-10 — [Spring 캐시 추상화의 sync=true: computeIfAbsent 원자적 로딩과 그 한계](./spring/cache-abstraction-sync-thundering-herd.md)
 - 2026-08-09 — [MySQL Binary Log Group Commit: sync_delay 배치 윈도우와 커밋 순서 보장이 durability와 처리량을 함께 얻는 법](./database/mysql-binlog-group-commit-sync-delay.md)
 - 2026-08-07 — [seccomp-BPF: 컨테이너 syscall 필터링이 리턴값 우선순위와 포인터 역참조 금지로 안전을 보장하는 법](./infra/seccomp-bpf-syscall-filtering.md)
-- 2026-08-05 — [Kubernetes Deployment 롤링 업데이트: maxSurge/maxUnavailable 비대칭 라운딩과 proportional scaling 분배](./kubernetes/deployment-rolling-update-proportional-scaling.md)
 
 ## Related
 
