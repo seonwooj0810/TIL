@@ -4,6 +4,7 @@
 > **Secondary:** RFC 5681 (TCP Congestion Control)
 > **Date:** 2026-08-17
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/tcp-sack-scoreboard-nextseg
 
 ## 왜 봤나
 
