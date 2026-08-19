@@ -4,6 +4,7 @@
 > **Secondary:** opentelemetry-java 소스 `sdk/trace/.../samplers/TraceIdRatioBasedSampler.java`
 > **Date:** 2026-08-19
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/otel-traceidratio-sampler-monotonicity
 
 ## 왜 봤나
 
