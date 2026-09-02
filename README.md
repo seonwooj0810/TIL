@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-09-02 — [PostgreSQL MVCC 튜플 가시성: xmin/xmax와 스냅샷이 만드는 HeapTupleSatisfiesMVCC 판정](./database/postgresql-mvcc-tuple-visibility-xmin-xmax.md)
 - 2026-08-19 — [OpenTelemetry TraceIdRatioBased 샘플러: trace ID 하위 64비트로 만드는 결정론적 확률 샘플링](./observability/opentelemetry-traceidratio-sampler-deterministic-sampling.md)
 - 2026-08-17 — [TCP SACK 손실 복구: scoreboard와 NextSeg()가 재전송 순서를 정하는 법](./network/tcp-sack-loss-recovery-scoreboard-nextseg.md)
 - 2026-08-14 — [Compressed Oops: 64비트 오브젝트 포인터를 32비트로 압축하는 인코딩](./java/compressed-oops-encoding-decoding.md)
 - 2026-08-12 — [HOTP/TOTP: HMAC 동적 절단(Dynamic Truncation)이 6자리 OTP를 만드는 법](./security/hotp-totp-dynamic-truncation.md)
-- 2026-08-10 — [Spring 캐시 추상화의 sync=true: computeIfAbsent 원자적 로딩과 그 한계](./spring/cache-abstraction-sync-thundering-herd.md)
 
 ## Related
 
