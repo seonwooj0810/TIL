@@ -4,6 +4,7 @@
 > **Secondary:** PostgreSQL 18 Documentation §66.6 Database Page Layout, §24.1.5 Preventing Transaction ID Wraparound Failures, §13.1 Introduction(MVCC), F.23 pageinspect
 > **Date:** 2026-09-02
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/postgresql-mvcc-xmin-xmax-visibility
 
 ## 왜 봤나
 
