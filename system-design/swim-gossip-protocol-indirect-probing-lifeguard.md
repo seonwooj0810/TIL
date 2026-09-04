@@ -4,6 +4,7 @@
 > **Secondary:** SWIM 원 논문(Das, Gupta, Motivala, ICDCS 2002) / Lifeguard 논문(Suresh et al., ICDCN 2018) — 개념 수준 인용
 > **Date:** 2026-09-04
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/swim-lifeguard-self-awareness-timeout
 
 ## 왜 봤나
 
