@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-09-11 — [AQS Condition: await/signal은 스레드를 깨우지 않고 대기열만 옮긴다](./java/aqs-condition-object-await-signal-transfer.md)
 - 2026-09-09 — [Kubernetes Admission Webhook: Mutating→Validating 순서와 reinvocationPolicy 재호출 메커니즘](./kubernetes/admission-webhook-mutating-validating-reinvocation.md)
 - 2026-09-07 — [JWS 알고리즘 혼동(Algorithm Confusion) 공격: RS256 공개키가 HS256 비밀키로 둔갑하는 원리](./security/jwt-jws-algorithm-confusion-rs256-hs256.md)
 - 2026-09-04 — [SWIM 가십 프로토콜: 간접 프로빙(Indirect Probing)과 Lifeguard 자기인식·의심 타이머 스케일링](./system-design/swim-gossip-protocol-indirect-probing-lifeguard.md)
 - 2026-09-02 — [PostgreSQL MVCC 튜플 가시성: xmin/xmax와 스냅샷이 만드는 HeapTupleSatisfiesMVCC 판정](./database/postgresql-mvcc-tuple-visibility-xmin-xmax.md)
-- 2026-08-19 — [OpenTelemetry TraceIdRatioBased 샘플러: trace ID 하위 64비트로 만드는 결정론적 확률 샘플링](./observability/opentelemetry-traceidratio-sampler-deterministic-sampling.md)
 
 ## Related
 
