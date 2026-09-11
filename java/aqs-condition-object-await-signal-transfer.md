@@ -4,6 +4,7 @@
 > **Secondary:** Doug Lea, "The java.util.concurrent Synchronizer Framework" (PODC 2004); 본 저장소 [`synchronized-vs-reentrantlock.md`](./synchronized-vs-reentrantlock.md) (구버전 CLH/waitStatus 모델 설명)
 > **Date:** 2026-09-11
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/aqs-condition-signal-transfer
 
 ## 왜 봤나
 
