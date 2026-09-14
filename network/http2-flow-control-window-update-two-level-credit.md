@@ -4,6 +4,7 @@
 > **Secondary:** 없음
 > **Date:** 2026-09-14
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/http2-dual-window-flow-control
 
 ## 왜 봤나
 
