@@ -4,6 +4,7 @@
 > **Secondary:** PostgreSQL 18 Docs §24.1 Routine Vacuuming (VACUUM-BASICS, VACUUM-FOR-VISIBILITY-MAP)
 > **Date:** 2026-09-16
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/postgresql-xid-wraparound-vacuum-freeze
 
 ## 왜 봤나
 
