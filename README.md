@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-09-18 — [Docker 브리지 네트워크 게이트웨이 모드: NAT/masquerade와 routed/direct-routing의 경계](./infra/docker-bridge-gateway-modes-nat-routed.md)
 - 2026-09-16 — [PostgreSQL 트랜잭션 ID(XID) Wraparound과 VACUUM Freeze](./database/postgresql-xid-wraparound-vacuum-freeze.md)
 - 2026-09-14 — [HTTP/2 흐름 제어: WINDOW_UPDATE 크레딧과 스트림·커넥션 이중 윈도우](./network/http2-flow-control-window-update-two-level-credit.md)
 - 2026-09-11 — [AQS Condition: await/signal은 스레드를 깨우지 않고 대기열만 옮긴다](./java/aqs-condition-object-await-signal-transfer.md)
 - 2026-09-09 — [Kubernetes Admission Webhook: Mutating→Validating 순서와 reinvocationPolicy 재호출 메커니즘](./kubernetes/admission-webhook-mutating-validating-reinvocation.md)
-- 2026-09-07 — [JWS 알고리즘 혼동(Algorithm Confusion) 공격: RS256 공개키가 HS256 비밀키로 둔갑하는 원리](./security/jwt-jws-algorithm-confusion-rs256-hs256.md)
 
 ## Related
 
