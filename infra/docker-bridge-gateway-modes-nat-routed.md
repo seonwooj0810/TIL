@@ -4,6 +4,7 @@
 > **Secondary:** Docker Engine Docs — Packet filtering and firewalls 개요, GitHub moby/moby#45610
 > **Date:** 2026-09-18
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/docker-bridge-nat-vs-routed-direct-routing
 
 ## 왜 봤나
 
