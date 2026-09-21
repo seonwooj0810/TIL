@@ -4,6 +4,7 @@
 > **Secondary:** Hibernate ORM User Guide, "Merging detached objects" 섹션
 > **Date:** 2026-09-21
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/jpa-merge-detached-select-then-copy
 
 ## 왜 봤나
 
