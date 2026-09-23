@@ -4,6 +4,7 @@
 > **Secondary:** Spring Framework Reference — Transaction-bound Events, 관련 노트 [TransactionSynchronizationManager 커넥션 바인딩](./transaction-synchronization-manager-connection-binding.md)
 > **Date:** 2026-09-23
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/transactional-event-listener-after-commit-write-lost
 
 ## 왜 봤나
 
