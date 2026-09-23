@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-09-23 — [@TransactionalEventListener(AFTER_COMMIT)는 afterCommit이 아니라 afterCompletion에서 돈다: 커밋 후 리스너의 쓰기가 사라지는 이유](./spring/transactional-event-listener-after-completion.md)
 - 2026-09-21 — [JPA merge(): detached 엔티티 병합은 UPDATE가 아니라 "SELECT 후 상태 복사"다](./jpa/merge-detached-entity-select-then-copy.md)
 - 2026-09-18 — [Docker 브리지 네트워크 게이트웨이 모드: NAT/masquerade와 routed/direct-routing의 경계](./infra/docker-bridge-gateway-modes-nat-routed.md)
 - 2026-09-16 — [PostgreSQL 트랜잭션 ID(XID) Wraparound과 VACUUM Freeze](./database/postgresql-xid-wraparound-vacuum-freeze.md)
 - 2026-09-14 — [HTTP/2 흐름 제어: WINDOW_UPDATE 크레딧과 스트림·커넥션 이중 윈도우](./network/http2-flow-control-window-update-two-level-credit.md)
-- 2026-09-11 — [AQS Condition: await/signal은 스레드를 깨우지 않고 대기열만 옮긴다](./java/aqs-condition-object-await-signal-transfer.md)
 
 ## Related
 
