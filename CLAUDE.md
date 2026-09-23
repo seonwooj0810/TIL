@@ -15,6 +15,7 @@
 - **이 repo엔 `examples/` 디렉터리·코드 실행 환경이 없다** — 검증은 본문 인라인 스니펫 또는 1차 출처 추적으로 적고, 존재하지 않는 파일 경로를 참조하지 않는다.
 - 파일 read 실패가 런 전체를 중단시키지 않도록: 존재 불확실 파일(`requests.md`, `published-topics.md`)은 `ls`로 확인 후 읽는다.
 - til-draft.md 성공/실패 무관하게(성공 시 git push 후, 실패 시 바로) cron이 **퍼널②(블로그 발행, jobid facf6b62)를 `openclaw cron run`(force 모드)으로 트리거**한다. **2026-08-09부로 facf6b62 자체 스케줄은 disabled** — 이 트리거가 블로그 발행의 유일한 실행 경로다(disabled여도 force 모드 `cron run`은 정상 동작 — enabled 체크를 건너뜀).
+- **2026-09-23: 모델=Opus 5.5, thinking=medium(전역 상속, 오버라이드 없음)으로 사용자 지시에 따라 통일 — 아래 줄은 이전 기록.**
 - **thinking = 전역 기본값 상속(오버라이드 없음, 현재 high), 손대지 말 것**: 2026-08-09 xhigh→high 다운그레이드가 til-bot에선 토큰 -45.7%(턴수 86→55)로 확실한 이득이었음(반대로 blog-bot은 같은 변경이 +18% 역행해서 xhigh로 롤백함 — `blog-pipeline/CLAUDE.md` 참고). 이 봇에 한해 전역값을 그대로 따라가는 게 맞다.
 - **과거 실패 이력(07-31, 4연속 error)은 세션재시작 버그가 아니라 "주간 사용량 한도 도달"(당시 opus-4-8 사용, 자동 재시도 4번 만에 다음날 리셋 후 성공)** — oss-bot의 detach+폴링 패턴(세션재시작이 detach 안 된 서브프로세스를 죽이는 문제 대응)과는 무관한 별개 원인. til-bot은 오케스트레이터가 직접 작업해서 애초에 detach할 서브프로세스가 없어 그 특정 버그에 노출된 적이 없다 — 의도적으로 다른 패턴 쓰는 게 아니라 구조상 해당 사항이 없는 것.
 - **토큰 사용량 확인**: `~/.config/claude-bots/report-usage til [--days N]` — 이 봇은 서브프로세스가 없어 `usage.jsonl`에 전혀 안 잡히므로, 이 도구로 `~/.claude/projects/`를 직접 긁어야 실측치가 나온다.
