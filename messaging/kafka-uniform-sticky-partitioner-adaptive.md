@@ -4,6 +4,7 @@
 > **Secondary:** KIP-480: Sticky Partitioner
 > **Date:** 2026-09-25
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kafka-uniform-sticky-partitioner
 
 ## 왜 봤나
 
