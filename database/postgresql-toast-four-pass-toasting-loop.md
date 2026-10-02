@@ -4,6 +4,7 @@
 > **Secondary:** `src/include/access/heaptoast.h`(임계값 매크로), `src/backend/access/common/toast_internals.c` `toast_compress_datum()`, `src/common/pg_lzcompress.c` `strategy_default_data`
 > **Date:** 2026-10-02
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/postgresql-toast-four-pass-loop
 
 ## 왜 봤나
 
