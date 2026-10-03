@@ -4,6 +4,7 @@
 > **Secondary:** listen(2) man page (man-pages 6.19), `Documentation/networking/ip-sysctl.rst`
 > **Date:** 2026-09-30
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/linux-listen-backlog-accept-queue-overflow
 
 ## 왜 봤나
 
