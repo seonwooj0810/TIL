@@ -4,6 +4,7 @@
 > **Secondary:** `docs/querying/basics.md`의 range vector selector 설명 (left-open/right-closed 구간)
 > **Date:** 2026-09-28
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/prometheus-rate-extrapolation
 
 ## 왜 봤나
 
