@@ -4,6 +4,7 @@
 > **Secondary:** LWN "Another OOM killer rewrite"(docs가 링크하는 oom_score 배경 글), cgroup v2 admin guide의 `memory.oom.group`
 > **Date:** 2026-10-05
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/kubernetes-qos-oom-eviction-order
 
 ## 왜 봤나
 
