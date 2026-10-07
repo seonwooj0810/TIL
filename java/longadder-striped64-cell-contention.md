@@ -4,6 +4,7 @@
 > **Secondary:** `java.util.concurrent.atomic.LongAdder` Javadoc
 > **Date:** 2026-10-07
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/longadder-striped64-cell-striping
 
 ## 왜 봤나
 
