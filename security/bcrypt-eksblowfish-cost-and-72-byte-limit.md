@@ -4,6 +4,7 @@
 > **Secondary:** Provos & Mazières, "A Future-Adaptable Password Scheme" (USENIX 1999, https://www.openbsd.org/papers/bcrypt-paper.ps — `BCrypt.java`의 `ekskey` 주석이 인용) / Spring Security Advisory CVE-2025-22228
 > **Date:** 2026-10-09
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/bcrypt-eksblowfish-72-byte-limit
 
 ## 왜 봤나
 
