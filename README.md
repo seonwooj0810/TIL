@@ -52,11 +52,11 @@
 ## Recent
 
 <!-- 자동 생성: ./scripts/update-recent.sh -->
+- 2026-10-09 — [bcrypt의 cost는 키 스케줄을 2^cost번 다시 돌리는 것이다 — EksBlowfish 구조와 72바이트 한계가 생기는 자리](./security/bcrypt-eksblowfish-cost-and-72-byte-limit.md)
 - 2026-10-07 — [LongAdder는 처음부터 쪼개지 않는다 — Striped64의 base 우선·충돌 시 2배 확장·NCPU 상한과 probe 재해싱](./java/longadder-striped64-cell-contention.md)
 - 2026-10-05 — [Kubernetes QoS 클래스는 퇴출 순서를 직접 정하지 않는다 — kubelet의 3단 정렬과 커널 oom_score_adj 공식이 같은 "usage − request"로 수렴하는 이유](./kubernetes/qos-oom-score-adj-and-eviction-ranking.md)
 - 2026-10-02 — [PostgreSQL TOAST는 "큰 값"이 아니라 "큰 행"에 반응한다 — 가장 큰 컬럼부터 압축·외부화하는 4단계 루프](./database/postgresql-toast-four-pass-toasting-loop.md)
 - 2026-10-01 — [Prometheus rate()/increase()는 왜 정수 카운터에서 소수를 돌려주나 — extrapolatedRate의 경계 외삽 알고리즘](./observability/prometheus-rate-extrapolation.md)
-- 2026-10-01 — [Linux listen backlog는 무엇을 세는가 — SYN 큐·accept 큐 두 관문과 오버플로 시 조용히 버려지는 3번째 ACK](./network/linux-listen-backlog-syn-queue-accept-queue.md)
 
 ## Related
 
